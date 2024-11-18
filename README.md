@@ -117,7 +117,7 @@ endmodule
       
 &emsp;&emsp;After this you can see the window like below <br>
 
-![20241006_041054](https://github.com/user-attachments/assets/d9c6d73b-24f4-4e2d-9a6e-a04c6e381ab9)
+![WhatsApp Image 2024-11-17 at 11 34 28 PM](https://github.com/user-attachments/assets/1c64ed2c-d617-4937-ad79-4f0027cb823c)
 
 **Fig 3:Invoke the Cadence Environment**
 
@@ -131,7 +131,8 @@ endmodule
 
 &emsp;&emsp;It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .<br>
 
-![Picture4](https://github.com/user-attachments/assets/32e0e7a3-c868-4cf2-b00d-f49f959f19f6)
+![WhatsApp Image 2024-11-17 at 11 34 28 PM (1)](https://github.com/user-attachments/assets/81603e6d-66f5-44ed-850a-cd884842a752)
+
 
 **Fig 4:Setting Multi-step simulation**
 
@@ -139,7 +140,7 @@ endmodule
 
 &emsp;&emsp;Click the cds.lib file and save the file by clicking on Save option <br>
 
-![Picture5](https://github.com/user-attachments/assets/7ec7c023-972c-42a9-bed5-b54b6ec354f6)
+![WhatsApp Image 2024-11-17 at 11 34 28 PM (2)](https://github.com/user-attachments/assets/32fdc202-7a84-4510-a8cf-495dcb55ec0d)
 
 **Fig 5:cds.lib file Creation**
 
@@ -210,7 +211,7 @@ endmodule
    
 &emsp;&emsp;After elaboration the file will come under snapshot. Select the test bench and elaborate it.<br>
 
-![Screenshot 2024-10-05 093552](https://github.com/user-attachments/assets/8169b828-4d0e-43de-bbf3-24916da7ebea)
+![WhatsApp Image 2024-11-17 at 11 34 28 PM (2)](https://github.com/user-attachments/assets/ffad63df-464b-4627-987f-94e2ab0b8279)
 
 **Fig 9: Elaboration Launch Option**
 
@@ -223,19 +224,19 @@ endmodule
 &emsp;&emsp;Simulation allow to dump design and test bench signals into a waveform <br>
 
 &emsp;&emsp;Steps for simulation – Run the simulation command with simulator options<br>
-
-![Picture3](https://github.com/user-attachments/assets/0585eddd-f9cf-47cf-a00a-3e4ba261713d)
+![WhatsApp Image 2024-11-17 at 11 34 28 PM (2)](https://github.com/user-attachments/assets/bd2dcdc0-30df-4c83-95ba-dc18ccd9a53f)
 
 **Fig 10: Design Browser window for simulation**
 
 ![Picture2](https://github.com/user-attachments/assets/2a4594ca-5a50-4a4f-884c-e0cdc8fb6690)
 
 **Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window**
+![WhatsApp Image 2024-11-17 at 11 34 28 PM (3)](https://github.com/user-attachments/assets/cc5efe83-5f25-4289-923d-67ca0a3df48e)
 
-![Picture1](https://github.com/user-attachments/assets/903122ee-20d7-4a10-944f-840a7f752368)
 
 **Fig 12: Simulation Waveform Window**
 
+![WhatsApp Image 2024-11-17 at 11 37 25 PM](https://github.com/user-attachments/assets/e8d9623a-0db5-44f3-86d3-8329ae09fcad)
 
 
 
